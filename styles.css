@@ -1,13 +1,16 @@
 /* Write your CSS here! */
-#mainHeading{
+h1 {
   font-size: 50px;
   font-family: Trebuchet MS;
-  color:rgb(255,0,0);
   text-align: center;
   text-transform: uppercase;
 }
 
-#main-menu{
+#mainHeading {
+color:rgb(255,0,0);
+}
+
+#main-menu {
 list-style-type: none;
 margin: 0%;
 padding: 0%;
@@ -20,7 +23,7 @@ border: 2px solid black;
 float: left;
 }
 
-#main-menu li a{
+#main-menu li a {
 display:block;
 padding: 20px;
 text-align: center;
@@ -79,8 +82,8 @@ ul {
  font-size: 20px;
 }
 
-p.funParagraph {
-  color:	rgb(0,128,0);
+.funParagraph {
+  color:rgb(0,128,0);
 }
 
  
