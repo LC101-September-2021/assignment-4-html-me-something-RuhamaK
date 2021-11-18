@@ -1,3 +1,106 @@
 /* Write your CSS here! */
+#mainHeading{
+  font-size: 50px;
+  font-family: Trebuchet MS;
+  color: red;
+  text-align: center;
+  text-transform: uppercase;
+}
 
+#main-menu{
+
+list-style-type: none;
+margin: 0%;
+padding: 0%;
+overflow: hidden;
+background-color: gold;
+border: 2px solid black;
+}
+
+#main-menu li {
+float: left;
+
+}
+
+#main-menu li a{
+display:block;
+padding: 20px;
+text-align: center;
+text-transform: uppercase;
+font-family: Trebuchet MS;
+font-size: 25px;
+font-weight: 400;
+letter-spacing: 1px;
+color:black;
+text-decoration-line: none;
+}
+
+
+#main-menu li a:hover {
+background-color:black;
+color: wheat;
+padding:20px;
+}
+
+h2{
+margin-top: 100px; 
+margin-bottom: 0;
+margin-left: 50px;
+font-family: arial;
+text-transform: capitalize;
+margin-top: 100px;
+
+}
+
+body {
+display: block;
+margin: 8px;
+}
+
+p {
+position: absolute;
+left: 0;
+width:500px;
+padding:150px;
+text-align: justify;
+font-size: 20px;
+/* margin-top: 1500px;
+margin-bottom: 500px; */
+}
+
+
+/* .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* margin-top:200px;
+  margin-bottom: 200px; */
+} */
+
+img {
+/* position:absolute; */
+/* right:0; */
+width: 600px;
+height: 400px;
+padding:100px;
+object-fit: contain;
+}
+
+/* 
+.image {
+  flex-basis: 40%;
+  padding-right: 200px;
+} */
+
+
+
+ul {
+ font-size: 20px;
+}
+
+.funParagraph {
+  color:green;
+}
+
+ 
   
