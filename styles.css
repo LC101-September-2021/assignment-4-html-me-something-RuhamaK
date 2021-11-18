@@ -1,1 +1,81 @@
 /* Write your CSS here! */
+h1 {
+  font-size: 50px;
+  font-family: Trebuchet MS;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#mainHeading {
+color:red;
+}
+
+#main-menu {
+list-style-type: none;
+margin: 0%;
+padding: 0%;
+overflow: hidden;
+background-color: gold;
+border: 2px solid black;
+}
+
+#main-menu li {
+float: left;
+}
+
+#main-menu li a {
+display:block;
+padding: 20px;
+text-align: center;
+text-transform: uppercase;
+font-family: Trebuchet MS;
+font-size: 25px;
+font-weight: 400;
+letter-spacing: 1px;
+color:black;
+text-decoration-line: none;
+}
+
+
+#main-menu li a:hover {
+background-color:black;
+color: wheat;
+padding:20px;
+}
+
+h2{
+display: block;
+font-family: arial;
+margin-block-start: 50px;
+margin-block-end: 10px;
+font-size: 30px;
+}
+
+body {
+display: block;
+margin: 8px;
+}
+
+p {
+text-align: justify;
+font-size: 20px;
+display: block;
+margin-block-start: 10px;
+margin-block-end: 50px;
+}
+
+img {
+width: 600px;
+height: 400px;
+}
+
+ul {
+ font-size: 20px;
+}
+
+.funParagraph {
+  color:green;
+}
+
+ 
+  
