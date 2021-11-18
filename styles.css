@@ -2,7 +2,7 @@
 #mainHeading{
   font-size: 50px;
   font-family: Trebuchet MS;
-  color: red;
+  color:rgb(255,0,0);
   text-align: center;
   text-transform: uppercase;
 }
@@ -99,7 +99,7 @@ ul {
 }
 
 .funParagraph {
-  color:green;
+  color:	rgb(0,128,0);
 }
 
  
