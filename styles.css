@@ -46,11 +46,10 @@ padding:20px;
 h2{
 display: block;
 font-family: arial;
-margin-block-start: 1;
-margin-block-end: 1;
-margin-inline-start: 0px;
-margin-inline-end: 0px;
-font-weight: bold;
+margin-block-start: 50px;
+margin-block-end: 10px;
+font-size: 30px;
+color:gold;
 }
 
 body {
@@ -59,13 +58,12 @@ margin: 8px;
 }
 
 p {
+
 text-align: justify;
 font-size: 20px;
 display: block;
-margin-block-start: 5;
-margin-block-end: 5;
-margin-inline-start: 0px;
-margin-inline-end: 0px;
+margin-block-start: 10px;
+margin-block-end: 50px;
 }
 
 img {
